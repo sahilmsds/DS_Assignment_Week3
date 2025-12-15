@@ -1,0 +1,2 @@
+datetime,city,temperature(C),wind_speed(m/s),humidity(%),summary
+2025-12-15T15:26:49.965681+00:00,London,11.03,5.66,85,Mild (11-24°C) Humid conditions!
